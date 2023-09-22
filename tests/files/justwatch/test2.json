@@ -1,0 +1,196 @@
+[
+    {
+        "cursor": "MTcxMA==",
+        "node": {
+            "id": "tm235416",
+            "objectId": 235416,
+            "objectType": "MOVIE",
+            "content": {
+                "title": "Area 51: The CIA's Secret",
+                "originalReleaseYear": 2014,
+                "fullPath": "/uk/movie/area-51-the-cias-secret",
+                "ageCertification": "",
+                "productionCountries": [
+                    "US"
+                ],
+                "clips": [],
+                "credits": [
+                    {
+                        "role": "DIRECTOR",
+                        "name": "Paul Nelson",
+                        "characterName": "",
+                        "personId": 161861,
+                        "__typename": "Credit"
+                    }
+                ],
+                "genres": [
+                    {
+                        "shortName": "doc",
+                        "__typename": "Genre"
+                    }
+                ],
+                "scoring": {
+                    "imdbScore": 5.6,
+                    "__typename": "Scoring"
+                },
+                "externalIds": {
+                    "imdbId": "tt5199604",
+                    "__typename": "ExternalIds"
+                },
+                "shortDescription": "This true story covers ground-breaking research into the aviation that took place at the Groom Lake Testing Facility, otherwise known as Area 51, which ensured US Aerial supremacy from the Cold War through to the present day.  Utilising CIA documents that have recently been declassified this programme identifies specific individuals who worked at the top secret base in a variety of roles – the radar specialists, pilots and security guards.  Their personal testimonies provide a unique impression not just of the work that was carried out, but of the site itself.  We reveal just how tight security had to be to keep the development of the U2, A12 and HAVE BLUE aviation programmes under wraps.  This is a film that concentrates on delivering history and factual accuracy in a fresh and engaging style – one that answers the question ‘what really happened at Area 51’?",
+                "runtime": 52,
+                "posterUrl": "/poster/243656711/{profile}/area-51-the-cias-secret.{format}",
+                "__typename": "MovieContent"
+            },
+            "watchNowOffer": {
+                "id": "b2Z8dG0yMzU0MTY6R0I6MzM3OmZsYXRyYXRlOmhk",
+                "standardWebURL": "https://disneyplus.bn5x.net/c/1206980/705874/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fmovies%2Farea-51-the-cias-secret%2F5HNygPaQI7Ul\u0026subId3=justappsvod",
+                "package": {
+                    "packageId": 337,
+                    "clearName": "Disney Plus",
+                    "__typename": "Package"
+                },
+                "presentationType": "HD",
+                "monetizationType": "FLATRATE",
+                "__typename": "Offer"
+            },
+            "seenlistEntry": null,
+            "__typename": "Movie"
+        },
+        "__typename": "PopularTitlesEdge"
+    },
+    {
+        "cursor": "MQ==",
+        "node": {
+            "id": "ts77795",
+            "objectId": 77795,
+            "objectType": "SHOW",
+            "content": {
+                "title": "Derry Girls",
+                "originalReleaseYear": 2018,
+                "fullPath": "/uk/tv-series/derry-girls",
+                "ageCertification": "15",
+                "productionCountries": [
+                    "GB"
+                ],
+                "clips": [
+                    {
+                        "externalId": "UFmFuXH0IRY",
+                        "__typename": "Clip"
+                    }
+                ],
+                "credits": [
+                    {
+                        "role": "ACTOR",
+                        "name": "Saoirse-Monica Jackson",
+                        "characterName": "Erin Quinn",
+                        "personId": 827762,
+                        "__typename": "Credit"
+                    },
+                    {
+                        "role": "ACTOR",
+                        "name": "Louisa Harland",
+                        "characterName": "Orla McCool",
+                        "personId": 615361,
+                        "__typename": "Credit"
+                    },
+                    {
+                        "role": "ACTOR",
+                        "name": "Nicola Coughlan",
+                        "characterName": "Clare Devlin",
+                        "personId": 40732,
+                        "__typename": "Credit"
+                    },
+                    {
+                        "role": "ACTOR",
+                        "name": "Jamie Lee O'Donnell",
+                        "characterName": "Michelle Mallon",
+                        "personId": 827754,
+                        "__typename": "Credit"
+                    },
+                    {
+                        "role": "ACTOR",
+                        "name": "Dylan Llewellyn",
+                        "characterName": "James Maguire",
+                        "personId": 62390,
+                        "__typename": "Credit"
+                    },
+                    {
+                        "role": "ACTOR",
+                        "name": "Tara Lynne O'Neill",
+                        "characterName": "Ma Mary Quinn",
+                        "personId": 199054,
+                        "__typename": "Credit"
+                    },
+                    {
+                        "role": "ACTOR",
+                        "name": "Tommy Tiernan",
+                        "characterName": "Da Gerry Quinn",
+                        "personId": 63575,
+                        "__typename": "Credit"
+                    },
+                    {
+                        "role": "ACTOR",
+                        "name": "Kathy Kiera Clarke",
+                        "characterName": "Aunt Sarah",
+                        "personId": 722136,
+                        "__typename": "Credit"
+                    },
+                    {
+                        "role": "ACTOR",
+                        "name": "Ian McElhinney",
+                        "characterName": "Granda Joe",
+                        "personId": 589124,
+                        "__typename": "Credit"
+                    },
+                    {
+                        "role": "ACTOR",
+                        "name": "Siobhán McSweeney",
+                        "characterName": "Sister Michael",
+                        "personId": 766641,
+                        "__typename": "Credit"
+                    },
+                    {
+                        "role": "ACTOR",
+                        "name": "Leah O'Rourke",
+                        "characterName": "Jenny Joyce",
+                        "personId": 737136,
+                        "__typename": "Credit"
+                    }
+                ],
+                "genres": [
+                    {
+                        "shortName": "cmy",
+                        "__typename": "Genre"
+                    }
+                ],
+                "scoring": {
+                    "imdbScore": 8.4,
+                    "__typename": "Scoring"
+                },
+                "externalIds": {
+                    "imdbId": "tt7120662",
+                    "__typename": "ExternalIds"
+                },
+                "shortDescription": "Amidst the political conflict of Northern Ireland in the 1990s, five high school students square off with the universal challenges of being a teenager.",
+                "runtime": 25,
+                "posterUrl": "/poster/117174217/{profile}/derry-girls.{format}",
+                "__typename": "ShowContent"
+            },
+            "watchNowOffer": {
+                "id": "b2Z8dHM3Nzc5NTpHQjo4OmZsYXRyYXRlOnNk",
+                "standardWebURL": "http://www.netflix.com/title/80238565",
+                "package": {
+                    "packageId": 8,
+                    "clearName": "Netflix",
+                    "__typename": "Package"
+                },
+                "presentationType": "SD",
+                "monetizationType": "FLATRATE",
+                "__typename": "Offer"
+            },
+            "__typename": "Show"
+        },
+        "__typename": "PopularTitlesEdge"
+    }
+]

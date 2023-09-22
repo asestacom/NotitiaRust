@@ -1,0 +1,10 @@
+tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres
+tt0000001	short	Carmencita	Carmencita	0	1894	"\N"	1	Documentary,Short
+tt0083658	movie	Blade Runner	Blade Runner	0	1982	"\N"	117	Action,Drama,Sci-Fi
+tt1856101	movie	Blade Runner 2049	Blade Runner 2049	0	2017	"\N"	164	Action,Drama,Mystery
+tt0120737	movie	The Lord of the Rings: The Fellowship of the Ring	The Lord of the Rings: The Fellowship of the Ring	0	2001	"\N"	178	Action,Adventure,Drama
+tt4116284	movie	The Lego Batman Movie	The Lego Batman Movie	0	2017	"\N"	104	Action,Adventure,Animation
+tt0289043	movie	28 Days Later...	28 Days Later...	0	2002	"\N"	113	Drama,Horror,Sci-Fi
+tt0325980	movie	Pirates of the Caribbean: The Curse of the Black Pearl	Pirates of the Caribbean: The Curse of the Black Pearl	0	2003	"\N"	143	Action,Adventure,Fantasy
+tt0034583	movie	Casablanca	Casablanca	0	1942	"\N"	102	Drama,Romance,War
+tt0038777	movie	A Night in Casablanca	A Night in Casablanca	0	1946	"\N"	85	Comedy,Family
